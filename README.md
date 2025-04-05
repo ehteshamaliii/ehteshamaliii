@@ -19,7 +19,7 @@ I'm a passionate **Web Developer** who loves building clean, functional, and use
 
 ## 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ehteshamaliii/)
+- LinkedIn: [https://www.linkedin.com/in/ehteshamaliii/](https://www.linkedin.com/in/ehteshamaliii/)
 - Email: theehteshamali@gmail.com
 
 ---
