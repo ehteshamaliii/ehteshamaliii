@@ -68,99 +68,99 @@
 
 ## 🚀 Products I've built
 
-> Click any thumbnail to watch a 20-second walkthrough. 🔒 Most of these are private client or company repositories; links go to the public ones.
+> Previews play automatically. Click one for the full 20-second video. 🔒 Most of these are private client or company repositories; links go to the public ones.
 
 ### Business operations software
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/1001toolbox.mp4"><img src="assets/projects/1001toolbox.png" alt="1001 ToolBox" width="100%"></a><br>
-      <strong>1001 ToolBox</strong> · <a href="assets/videos/1001toolbox.mp4">▶ Watch</a><br>
+      <a href="assets/videos/1001toolbox.mp4"><img src="assets/gifs/1001toolbox.gif" alt="1001 ToolBox" width="100%"></a><br>
+      <strong>1001 ToolBox</strong><br>
       One suite for small-business busywork that brings Payloom, Keystone and Porchlight together.<br>
       <sub>Next.js · TypeScript</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/payloom.mp4"><img src="assets/projects/payloom.png" alt="Payloom" width="100%"></a><br>
-      <strong>Payloom</strong> · <a href="assets/videos/payloom.mp4">▶ Watch</a><br>
+      <a href="assets/videos/payloom.mp4"><img src="assets/gifs/payloom.gif" alt="Payloom" width="100%"></a><br>
+      <strong>Payloom</strong><br>
       Payroll with monthly runs, payslips and income-tax working.<br>
       <sub>Next.js · MongoDB</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/keystone.mp4"><img src="assets/projects/keystone.png" alt="Keystone" width="100%"></a><br>
-      <strong>Keystone</strong> · <a href="assets/videos/keystone.mp4">▶ Watch</a><br>
+      <a href="assets/videos/keystone.mp4"><img src="assets/gifs/keystone.gif" alt="Keystone" width="100%"></a><br>
+      <strong>Keystone</strong><br>
       Property management with rent runs, receipts, ledgers and a tenant portal.<br>
       <sub>Next.js · Prisma</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/porchlight.mp4"><img src="assets/projects/porchlight.png" alt="Porchlight" width="100%"></a><br>
-      <strong>Porchlight</strong> · <a href="assets/videos/porchlight.mp4">▶ Watch</a><br>
+      <a href="assets/videos/porchlight.mp4"><img src="assets/gifs/porchlight.gif" alt="Porchlight" width="100%"></a><br>
+      <strong>Porchlight</strong><br>
       Live chat for any website, with a support desk, saved answers and themes.<br>
       <sub>TypeScript monorepo · Docker · mobile app</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/quickworx.mp4"><img src="assets/projects/quickworx.jpg" alt="QuickworX" width="100%"></a><br>
-      <strong>QuickworX</strong> · <a href="assets/videos/quickworx.mp4">▶ Watch</a><br>
+      <a href="assets/videos/quickworx.mp4"><img src="assets/gifs/quickworx.gif" alt="QuickworX" width="100%"></a><br>
+      <strong>QuickworX</strong><br>
       One HR platform for the whole employee lifecycle: hiring, people, time, pay and work, plus a mobile app.<br>
       <sub>Laravel · Vue/Inertia · Expo</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/brothersfix-erp.mp4"><img src="assets/projects/brothersfix-erp.jpg" alt="Brothers Fix ERP" width="100%"></a><br>
-      <strong>Brothers Fix ERP</strong> · <a href="assets/videos/brothersfix-erp.mp4">▶ Watch</a><br>
+      <a href="assets/videos/brothersfix-erp.mp4"><img src="assets/gifs/brothersfix-erp.gif" alt="Brothers Fix ERP" width="100%"></a><br>
+      <strong>Brothers Fix ERP</strong><br>
       Field-service ERP covering jobs, crews, live fleet GPS, warehouse, job chat with AI summaries and completion reports.<br>
       <sub>React · Express · MongoDB · Socket.IO · Expo</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/98-clean-teams.mp4"><img src="assets/projects/98-clean-teams.jpg" alt="98 Clean Teams" width="100%"></a><br>
-      <strong>98 Clean Teams</strong> · <a href="assets/videos/98-clean-teams.mp4">▶ Watch</a><br>
+      <a href="assets/videos/98-clean-teams.mp4"><img src="assets/gifs/98-clean-teams.gif" alt="98 Clean Teams" width="100%"></a><br>
+      <strong>98 Clean Teams</strong><br>
       Operations platform for a dumpster rental company: jobs, vendor quote links, approvals and real-time notifications.<br>
       <sub>React · Express · MySQL · WebSockets · CI/CD</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/alluredispatch.mp4"><img src="assets/projects/alluredispatch.jpg" alt="Allure Dispatch" width="100%"></a><br>
-      <strong>Allure Dispatch</strong> · <a href="assets/videos/alluredispatch.mp4">▶ Watch</a><br>
+      <a href="assets/videos/alluredispatch.mp4"><img src="assets/gifs/alluredispatch.gif" alt="Allure Dispatch" width="100%"></a><br>
+      <strong>Allure Dispatch</strong><br>
       Plan, route and fulfil. Dispatch and document workflows for field-service teams.<br>
       <sub>Next.js · MongoDB · MySQL · Socket.IO</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/manhattan-lead.mp4"><img src="assets/projects/manhattan-lead.jpg" alt="Manhattan Lead" width="100%"></a><br>
-      <strong>Manhattan Lead</strong> · <a href="assets/videos/manhattan-lead.mp4">▶ Watch</a><br>
+      <a href="assets/videos/manhattan-lead.mp4"><img src="assets/gifs/manhattan-lead.gif" alt="Manhattan Lead" width="100%"></a><br>
+      <strong>Manhattan Lead</strong><br>
       NYC lead-compliance tool: HPD open-data explorer, 6-hourly violation monitoring, client portal and inspection dispatch.<br>
       <sub>React · Express · MySQL</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/woodledger.mp4"><img src="assets/projects/woodledger.jpg" alt="WoodLedger" width="100%"></a><br>
-      <a href="https://github.com/ehteshamaliii/WoodLedger"><strong>WoodLedger</strong></a> · <a href="assets/videos/woodledger.mp4">▶ Watch</a><br>
+      <a href="assets/videos/woodledger.mp4"><img src="assets/gifs/woodledger.gif" alt="WoodLedger" width="100%"></a><br>
+      <a href="https://github.com/ehteshamaliii/WoodLedger"><strong>WoodLedger</strong></a><br>
       ERP for furniture makers covering orders, advances, production queue, payments and low-stock alerts.<br>
       <sub>Next.js · Prisma · MySQL · Socket.IO</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/upnext.mp4"><img src="assets/projects/upnext.jpg" alt="UpNext" width="100%"></a><br>
-      <strong>UpNext</strong> · <a href="assets/videos/upnext.mp4">▶ Watch</a><br>
+      <a href="assets/videos/upnext.mp4"><img src="assets/gifs/upnext.gif" alt="UpNext" width="100%"></a><br>
+      <strong>UpNext</strong><br>
       Multi-tenant project management: Kanban boards, recurring deliverables, EOD reports and a ⌘K palette.<br>
       <sub>Next.js · Express · MongoDB · Redis</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/quickinvoice.mp4"><img src="assets/projects/quickinvoice.jpg" alt="QuickInvoice" width="100%"></a><br>
-      <strong>QuickInvoice</strong> · <a href="assets/videos/quickinvoice.mp4">▶ Watch</a><br>
+      <a href="assets/videos/quickinvoice.mp4"><img src="assets/gifs/quickinvoice.gif" alt="QuickInvoice" width="100%"></a><br>
+      <strong>QuickInvoice</strong><br>
       Quotation to invoice in one click, payments with live notifications, and paid/pending/overdue reports.<br>
       <sub>React · Express · MySQL · WebSockets</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/training-tracking.mp4"><img src="assets/projects/training-tracking.jpg" alt="ComplianceAI" width="100%"></a><br>
-      <strong>ComplianceAI (Training Tracking System)</strong> · <a href="assets/videos/training-tracking.mp4">▶ Watch</a><br>
+      <a href="assets/videos/training-tracking.mp4"><img src="assets/gifs/training-tracking.gif" alt="ComplianceAI" width="100%"></a><br>
+      <strong>ComplianceAI (Training Tracking System)</strong><br>
       Training and certificate compliance: department dashboard, training matrix and expiry reminder rules.<br>
       <sub>Vue · Express · Prisma · MySQL</sub>
     </td>
@@ -172,64 +172,64 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/seobeacon.mp4"><img src="assets/projects/seobeacon.jpg" alt="SEO Beacon" width="100%"></a><br>
-      <strong>SEO Beacon</strong> · <a href="assets/videos/seobeacon.mp4">▶ Watch</a><br>
+      <a href="assets/videos/seobeacon.mp4"><img src="assets/gifs/seobeacon.gif" alt="SEO Beacon" width="100%"></a><br>
+      <strong>SEO Beacon</strong><br>
       AI agent for pages Google ranks and LLMs cite: GEO score, AI-crawler access, platform readiness and a content writer.<br>
       <sub>FastAPI · React</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/rankmetrics.mp4"><img src="assets/projects/rankmetrics.jpg" alt="Rank Metrics" width="100%"></a><br>
-      <strong>Rank Metrics</strong> · <a href="assets/videos/rankmetrics.mp4">▶ Watch</a><br>
+      <a href="assets/videos/rankmetrics.mp4"><img src="assets/gifs/rankmetrics.gif" alt="Rank Metrics" width="100%"></a><br>
+      <strong>Rank Metrics</strong><br>
       SEO workspace: site audit, sitemap coverage map, AI page improvement and publishing to WordPress.<br>
       <sub>Next.js · Django</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/zenstatus.mp4"><img src="assets/projects/zenstatus.jpg" alt="ZenStatus" width="100%"></a><br>
-      <a href="https://github.com/ehteshamaliii/zenstatus"><strong>ZenStatus</strong></a> · <a href="assets/videos/zenstatus.mp4">▶ Watch</a><br>
+      <a href="assets/videos/zenstatus.mp4"><img src="assets/gifs/zenstatus.gif" alt="ZenStatus" width="100%"></a><br>
+      <a href="https://github.com/ehteshamaliii/zenstatus"><strong>ZenStatus</strong></a><br>
       Bulk website status checks and 0–100 SEO scores across a whole sitemap.<br>
       <sub>Python · Flask</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/pressblade.mp4"><img src="assets/projects/pressblade.jpg" alt="PressBlade" width="100%"></a><br>
-      <strong>PressBlade</strong> · <a href="assets/videos/pressblade.mp4">▶ Watch</a><br>
+      <a href="assets/videos/pressblade.mp4"><img src="assets/gifs/pressblade.gif" alt="PressBlade" width="100%"></a><br>
+      <strong>PressBlade</strong><br>
       Desktop app that reads Elementor/Bricks pages, rewrites them for a new area and writes RankMath meta.<br>
       <sub>Electron · React · TypeScript</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/contentbug.mp4"><img src="assets/projects/contentbug.jpg" alt="ContentBug" width="100%"></a><br>
-      <strong>ContentBug</strong> · <a href="assets/videos/contentbug.mp4">▶ Watch</a><br>
+      <a href="assets/videos/contentbug.mp4"><img src="assets/gifs/contentbug.gif" alt="ContentBug" width="100%"></a><br>
+      <strong>ContentBug</strong><br>
       Self-hosted control panel for many WordPress sites: builder JSON editing, one-click plugin updates, llms.txt.<br>
       <sub>Next.js · Prisma</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/sphere-builder.mp4"><img src="assets/projects/sphere-builder.jpg" alt="Sphere Builder" width="100%"></a><br>
-      <strong>Sphere Builder</strong> · <a href="assets/videos/sphere-builder.mp4">▶ Watch</a><br>
+      <a href="assets/videos/sphere-builder.mp4"><img src="assets/gifs/sphere-builder.gif" alt="Sphere Builder" width="100%"></a><br>
+      <strong>Sphere Builder</strong><br>
       Visual website builder and runtime with 118 elements, inline editing, breakpoints and revisions.<br>
       <sub>Next.js · TypeScript</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/cineframe.mp4"><img src="assets/projects/cineframe.jpg" alt="CineFrame" width="100%"></a><br>
-      <strong>CineFrame</strong> · <a href="assets/videos/cineframe.mp4">▶ Watch</a><br>
+      <a href="assets/videos/cineframe.mp4"><img src="assets/gifs/cineframe.gif" alt="CineFrame" width="100%"></a><br>
+      <strong>CineFrame</strong><br>
       Cinematic 3D mockups from any URL, with a live browser inside the frame and PNG export.<br>
       <sub>Next.js · Three.js · Puppeteer</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/hireflow.mp4"><img src="assets/projects/hireflow.jpg" alt="HireFlow AI" width="100%"></a><br>
-      <strong>HireFlow AI</strong> · <a href="assets/videos/hireflow.mp4">▶ Watch</a><br>
+      <a href="assets/videos/hireflow.mp4"><img src="assets/gifs/hireflow.gif" alt="HireFlow AI" width="100%"></a><br>
+      <strong>HireFlow AI</strong><br>
       AI job search pipeline: paste a job link, get a fit score and a tailored CV. Built on career-ops.<br>
       <sub>Node.js · Claude Code</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/presentation-maker.mp4"><img src="assets/projects/presentation-maker.jpg" alt="Presentation Maker" width="100%"></a><br>
-      <strong>Presentation Maker</strong> · <a href="assets/videos/presentation-maker.mp4">▶ Watch</a><br>
+      <a href="assets/videos/presentation-maker.mp4"><img src="assets/gifs/presentation-maker.gif" alt="Presentation Maker" width="100%"></a><br>
+      <strong>Presentation Maker</strong><br>
       The Vue codebase behind the ComplianceAI pitch deck and an FBR digital-invoicing proposal.<br>
       <sub>Vue 3 · Vite</sub>
     </td>
@@ -241,14 +241,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="assets/videos/argus-one.mp4"><img src="assets/projects/argus-one.jpg" alt="Argus One" width="100%"></a><br>
-      <strong>Argus One</strong> · <a href="assets/videos/argus-one.mp4">▶ Watch</a><br>
+      <a href="assets/videos/argus-one.mp4"><img src="assets/gifs/argus-one.gif" alt="Argus One" width="100%"></a><br>
+      <strong>Argus One</strong><br>
       Attendance and surveillance for Windows: face recognition plus ZKTeco punches in one database, self-updating.<br>
       <sub>Python · Electron · React · MySQL</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="assets/videos/websites-showreel.mp4"><img src="assets/projects/websites-showreel.jpg" alt="Website showreel" width="100%"></a><br>
-      <strong>Website showreel</strong> · <a href="assets/videos/websites-showreel.mp4">▶ Watch</a><br>
+      <a href="assets/videos/websites-showreel.mp4"><img src="assets/gifs/websites-showreel.gif" alt="Website showreel" width="100%"></a><br>
+      <strong>Website showreel</strong><br>
       50+ production websites and 400+ local service pages in 20 seconds.<br>
       <sub>Next.js · WordPress · AVAULT CMS</sub>
     </td>
