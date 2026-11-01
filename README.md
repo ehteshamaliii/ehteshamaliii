@@ -10,7 +10,7 @@
   <a href="mailto:theehteshamali@gmail.com"><img src="https://img.shields.io/badge/Email-theehteshamali%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ehteshamaliii/"><img src="https://img.shields.io/badge/LinkedIn-ehteshamaliii-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.behance.net/ehteshamaliii"><img src="https://img.shields.io/badge/Behance-ehteshamaliii-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
-  <img src="https://img.shields.io/badge/Upwork-5.0%20rating-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork 5.0 rating">
+  <a href="https://www.upwork.com/freelancers/~01f2c60a728bda5482"><img src="https://img.shields.io/badge/Upwork-5.0%20rating-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork 5.0 rating"></a>
   <img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20PK-334155?style=flat-square" alt="Islamabad, Pakistan">
 </p>
 
@@ -23,6 +23,7 @@
 - **Build AI automation**: n8n workflows, Grok/xAI bots, LLM integrations and AI-assisted content and SEO tooling.
 - **Engineer CMS platforms**: custom WordPress themes and plugins, plus a MongoDB-backed headless CMS (AVAULT) that runs many of our client sites.
 - **Deliver at scale**: 50+ production websites and 400+ localized service and landing pages.
+- **Run the DevOps**: I manage the production servers and CI/CD pipelines behind 1001 ToolBox, Brothers Fix, Manhattan Lead, 98 Clean Teams and our other platforms, on AWS and Linux with Nginx, PM2 and Docker.
 
 ## 🛠️ Tech stack
 
@@ -47,124 +48,246 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-Grok%20%7C%20xAI%20%7C%20Claude-111827?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Grok%20%7C%20Claude-111827?style=flat-square)
 
-**Platforms and delivery**<br>
+**DevOps, servers and delivery**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Server management](https://img.shields.io/badge/Server%20management-1F2937?style=flat-square&logo=serverfault&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-workflows-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-0F766E?style=flat-square)
 
 ---
 
-## 🚀 Featured work
+## 🚀 Products I've built
+
+> Click any thumbnail to watch a 20-second walkthrough. 🔒 Most of these are private client or company repositories; links go to the public ones.
+
+### Business operations software
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projects/1001toolbox.png" alt="1001 ToolBox" width="100%"><br>
-      <strong>1001 ToolBox</strong>: one suite for small-business busywork that brings Payloom, Keystone and Porchlight together.<br>
+      <a href="assets/videos/1001toolbox.mp4"><img src="assets/projects/1001toolbox.png" alt="1001 ToolBox" width="100%"></a><br>
+      <strong>1001 ToolBox</strong> · <a href="assets/videos/1001toolbox.mp4">▶ Watch</a><br>
+      One suite for small-business busywork that brings Payloom, Keystone and Porchlight together.<br>
       <sub>Next.js · TypeScript</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projects/payloom.png" alt="Payloom" width="100%"><br>
-      <strong>Payloom</strong>: payroll generator with monthly runs, payslips and tax handling.<br>
+      <a href="assets/videos/payloom.mp4"><img src="assets/projects/payloom.png" alt="Payloom" width="100%"></a><br>
+      <strong>Payloom</strong> · <a href="assets/videos/payloom.mp4">▶ Watch</a><br>
+      Payroll with monthly runs, payslips and income-tax working.<br>
       <sub>Next.js · MongoDB</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projects/keystone.png" alt="Keystone" width="100%"><br>
-      <strong>Keystone</strong>: property management with rent runs, receipts, ledgers and a tenant portal.<br>
+      <a href="assets/videos/keystone.mp4"><img src="assets/projects/keystone.png" alt="Keystone" width="100%"></a><br>
+      <strong>Keystone</strong> · <a href="assets/videos/keystone.mp4">▶ Watch</a><br>
+      Property management with rent runs, receipts, ledgers and a tenant portal.<br>
       <sub>Next.js · Prisma</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projects/porchlight.png" alt="Porchlight" width="100%"><br>
-      <strong>Porchlight</strong>: live chat for any website, with a support desk, saved answers and light/dark themes.<br>
+      <a href="assets/videos/porchlight.mp4"><img src="assets/projects/porchlight.png" alt="Porchlight" width="100%"></a><br>
+      <strong>Porchlight</strong> · <a href="assets/videos/porchlight.mp4">▶ Watch</a><br>
+      Live chat for any website, with a support desk, saved answers and themes.<br>
       <sub>TypeScript monorepo · Docker · mobile app</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projects/brothersfix-erp.png" alt="Brothers Fix ERP" width="100%"><br>
-      <strong>Brothers Fix ERP</strong>: jobs, teams, clients, warehouses, fleets and field operations in one place, plus an Expo mobile app.<br>
-      <sub>React · Express · MongoDB · Socket.IO · Expo</sub>
+      <a href="assets/videos/quickworx.mp4"><img src="assets/projects/quickworx.jpg" alt="QuickworX" width="100%"></a><br>
+      <strong>QuickworX</strong> · <a href="assets/videos/quickworx.mp4">▶ Watch</a><br>
+      One HR platform for the whole employee lifecycle: hiring, people, time, pay and work, plus a mobile app.<br>
+      <sub>Laravel · Vue/Inertia · Expo</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projects/98-clean-teams.png" alt="98 Clean Teams" width="100%"><br>
-      <strong>98 Clean Teams</strong>: operations platform for a dumpster rental company covering vendors, jobs, quotations and real-time notifications.<br>
-      <sub>React · Express · MySQL · WebSockets · CI/CD</sub>
+      <a href="assets/videos/brothersfix-erp.mp4"><img src="assets/projects/brothersfix-erp.jpg" alt="Brothers Fix ERP" width="100%"></a><br>
+      <strong>Brothers Fix ERP</strong> · <a href="assets/videos/brothersfix-erp.mp4">▶ Watch</a><br>
+      Field-service ERP covering jobs, crews, live fleet GPS, warehouse, job chat with AI summaries and completion reports.<br>
+      <sub>React · Express · MongoDB · Socket.IO · Expo</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/projects/alluredispatch.jpg" alt="Allure Dispatch" width="100%"><br>
-      <strong>Allure Dispatch</strong>: plan, route and fulfil. Dispatch and document workflows for field-service teams.<br>
-      <sub>Next.js · MongoDB · MySQL · Socket.IO</sub>
+      <a href="assets/videos/98-clean-teams.mp4"><img src="assets/projects/98-clean-teams.jpg" alt="98 Clean Teams" width="100%"></a><br>
+      <strong>98 Clean Teams</strong> · <a href="assets/videos/98-clean-teams.mp4">▶ Watch</a><br>
+      Operations platform for a dumpster rental company: jobs, vendor quote links, approvals and real-time notifications.<br>
+      <sub>React · Express · MySQL · WebSockets · CI/CD</sub>
     </td>
     <td width="50%" valign="top">
-      <!-- TODO thumbnail -->
-      <strong>QuickworX</strong>: one HR platform for the whole employee lifecycle (hiring, people, time, pay and work), with a companion mobile app.<br>
-      <sub>Laravel · Vue/Inertia · Expo</sub>
+      <a href="assets/videos/alluredispatch.mp4"><img src="assets/projects/alluredispatch.jpg" alt="Allure Dispatch" width="100%"></a><br>
+      <strong>Allure Dispatch</strong> · <a href="assets/videos/alluredispatch.mp4">▶ Watch</a><br>
+      Plan, route and fulfil. Dispatch and document workflows for field-service teams.<br>
+      <sub>Next.js · MongoDB · MySQL · Socket.IO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/manhattan-lead.mp4"><img src="assets/projects/manhattan-lead.jpg" alt="Manhattan Lead" width="100%"></a><br>
+      <strong>Manhattan Lead</strong> · <a href="assets/videos/manhattan-lead.mp4">▶ Watch</a><br>
+      NYC lead-compliance tool: HPD open-data explorer, 6-hourly violation monitoring, client portal and inspection dispatch.<br>
+      <sub>React · Express · MySQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/woodledger.mp4"><img src="assets/projects/woodledger.jpg" alt="WoodLedger" width="100%"></a><br>
+      <a href="https://github.com/ehteshamaliii/WoodLedger"><strong>WoodLedger</strong></a> · <a href="assets/videos/woodledger.mp4">▶ Watch</a><br>
+      ERP for furniture makers covering orders, advances, production queue, payments and low-stock alerts.<br>
+      <sub>Next.js · Prisma · MySQL · Socket.IO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/upnext.mp4"><img src="assets/projects/upnext.jpg" alt="UpNext" width="100%"></a><br>
+      <strong>UpNext</strong> · <a href="assets/videos/upnext.mp4">▶ Watch</a><br>
+      Multi-tenant project management: Kanban boards, recurring deliverables, EOD reports and a ⌘K palette.<br>
+      <sub>Next.js · Express · MongoDB · Redis</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/quickinvoice.mp4"><img src="assets/projects/quickinvoice.jpg" alt="QuickInvoice" width="100%"></a><br>
+      <strong>QuickInvoice</strong> · <a href="assets/videos/quickinvoice.mp4">▶ Watch</a><br>
+      Quotation to invoice in one click, payments with live notifications, and paid/pending/overdue reports.<br>
+      <sub>React · Express · MySQL · WebSockets</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/training-tracking.mp4"><img src="assets/projects/training-tracking.jpg" alt="ComplianceAI" width="100%"></a><br>
+      <strong>ComplianceAI (Training Tracking System)</strong> · <a href="assets/videos/training-tracking.mp4">▶ Watch</a><br>
+      Training and certificate compliance: department dashboard, training matrix and expiry reminder rules.<br>
+      <sub>Vue · Express · Prisma · MySQL</sub>
     </td>
   </tr>
 </table>
 
-## 🧩 More products
+### SEO, CMS and AI tools
 
-**Business operations software**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/seobeacon.mp4"><img src="assets/projects/seobeacon.jpg" alt="SEO Beacon" width="100%"></a><br>
+      <strong>SEO Beacon</strong> · <a href="assets/videos/seobeacon.mp4">▶ Watch</a><br>
+      AI agent for pages Google ranks and LLMs cite: GEO score, AI-crawler access, platform readiness and a content writer.<br>
+      <sub>FastAPI · React</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/rankmetrics.mp4"><img src="assets/projects/rankmetrics.jpg" alt="Rank Metrics" width="100%"></a><br>
+      <strong>Rank Metrics</strong> · <a href="assets/videos/rankmetrics.mp4">▶ Watch</a><br>
+      SEO workspace: site audit, sitemap coverage map, AI page improvement and publishing to WordPress.<br>
+      <sub>Next.js · Django</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/zenstatus.mp4"><img src="assets/projects/zenstatus.jpg" alt="ZenStatus" width="100%"></a><br>
+      <a href="https://github.com/ehteshamaliii/zenstatus"><strong>ZenStatus</strong></a> · <a href="assets/videos/zenstatus.mp4">▶ Watch</a><br>
+      Bulk website status checks and 0–100 SEO scores across a whole sitemap.<br>
+      <sub>Python · Flask</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/pressblade.mp4"><img src="assets/projects/pressblade.jpg" alt="PressBlade" width="100%"></a><br>
+      <strong>PressBlade</strong> · <a href="assets/videos/pressblade.mp4">▶ Watch</a><br>
+      Desktop app that reads Elementor/Bricks pages, rewrites them for a new area and writes RankMath meta.<br>
+      <sub>Electron · React · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/contentbug.mp4"><img src="assets/projects/contentbug.jpg" alt="ContentBug" width="100%"></a><br>
+      <strong>ContentBug</strong> · <a href="assets/videos/contentbug.mp4">▶ Watch</a><br>
+      Self-hosted control panel for many WordPress sites: builder JSON editing, one-click plugin updates, llms.txt.<br>
+      <sub>Next.js · Prisma</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/sphere-builder.mp4"><img src="assets/projects/sphere-builder.jpg" alt="Sphere Builder" width="100%"></a><br>
+      <strong>Sphere Builder</strong> · <a href="assets/videos/sphere-builder.mp4">▶ Watch</a><br>
+      Visual website builder and runtime with 118 elements, inline editing, breakpoints and revisions.<br>
+      <sub>Next.js · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/cineframe.mp4"><img src="assets/projects/cineframe.jpg" alt="CineFrame" width="100%"></a><br>
+      <strong>CineFrame</strong> · <a href="assets/videos/cineframe.mp4">▶ Watch</a><br>
+      Cinematic 3D mockups from any URL, with a live browser inside the frame and PNG export.<br>
+      <sub>Next.js · Three.js · Puppeteer</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/hireflow.mp4"><img src="assets/projects/hireflow.jpg" alt="HireFlow AI" width="100%"></a><br>
+      <strong>HireFlow AI</strong> · <a href="assets/videos/hireflow.mp4">▶ Watch</a><br>
+      AI job search pipeline: paste a job link, get a fit score and a tailored CV. Built on career-ops.<br>
+      <sub>Node.js · Claude Code</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/presentation-maker.mp4"><img src="assets/projects/presentation-maker.jpg" alt="Presentation Maker" width="100%"></a><br>
+      <strong>Presentation Maker</strong> · <a href="assets/videos/presentation-maker.mp4">▶ Watch</a><br>
+      The Vue codebase behind the ComplianceAI pitch deck and an FBR digital-invoicing proposal.<br>
+      <sub>Vue 3 · Vite</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Manhattan Lead** | Compliance software for NYC lead inspection firms: city data extraction, monitoring, client portal, inspection scheduling | React · Express · MySQL |
-| [**WoodLedger**](https://github.com/ehteshamaliii/WoodLedger) | ERP for furniture manufacturers covering orders, inventory, payments and clients | Next.js · Prisma · Socket.IO |
-| **UpNext** | Multi-tenant project management | Next.js · Express · MongoDB |
-| **ProFinance / ProSale / ProSphere / ProDeed** | Finance, CRM, HRM, inventory, payment scheduling, property workflows and document generation (Dynamics Solutions) | Laravel · MySQL |
-| **QuickInvoice** | Invoicing and quotation software | Express · MySQL |
-| **Compliance AI** | AI-assisted compliance workspace | Vue · Express · Prisma · MySQL |
-| **EmployeeMatch** | Employee matching interface | React · TypeScript · Vite |
+### Attendance and hardware
 
-**SEO, CMS and content technology**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="assets/videos/argus-one.mp4"><img src="assets/projects/argus-one.jpg" alt="Argus One" width="100%"></a><br>
+      <strong>Argus One</strong> · <a href="assets/videos/argus-one.mp4">▶ Watch</a><br>
+      Attendance and surveillance for Windows: face recognition plus ZKTeco punches in one database, self-updating.<br>
+      <sub>Python · Electron · React · MySQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="assets/videos/websites-showreel.mp4"><img src="assets/projects/websites-showreel.jpg" alt="Website showreel" width="100%"></a><br>
+      <strong>Website showreel</strong> · <a href="assets/videos/websites-showreel.mp4">▶ Watch</a><br>
+      50+ production websites and 400+ local service pages in 20 seconds.<br>
+      <sub>Next.js · WordPress · AVAULT CMS</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is | Stack |
+| Also built | What it is | Stack |
 |---|---|---|
 | **AVAULT** | MongoDB-backed headless CMS and admin that powers our client sites (content, forms, SEO, redirects, media, backups) | Next.js · MongoDB |
-| **Sphere Builder** | Standalone visual website builder and runtime with a protected visual backend | Next.js · TypeScript |
-| **SEO Beacon** | AI agent that writes pages built to rank on Google and be cited by LLMs | FastAPI · React |
-| **Rankmetrics** | Internal SEO platform with keyword and sitemap coverage mapping | Next.js · Django |
-| [**ZenStatus**](https://github.com/ehteshamaliii/zenstatus) | Bulk website status and SEO auditing | Python · Flask |
-| **PressBlade** | Desktop WordPress site intelligence: plugins, content and health | Electron · React |
-| **ContentBug** | Self-hosted dashboard for managing many WordPress sites, including page-builder JSON | Next.js · Prisma |
+| **ProFinance / ProSale / ProSphere / ProDeed** | Finance, CRM, HRM, inventory, payment scheduling, property workflows and document generation (Dynamics Solutions) | Laravel · MySQL |
 | **WordPress plugins** | AI content generation and scheduling, RankMath migration, custom fields/CPTs, quizzes, Elementor/Bricks widgets, MapLibre/SVG maps, mobile.de integration | PHP · WordPress |
-
-**AI tools and creative tech**
-
-| Project | What it is | Stack |
-|---|---|---|
-| **HireFlow AI** | AI job search pipeline: paste a job link, get a fit score and a tailored CV. Built on [career-ops](https://github.com/santifer/career-ops) | Node.js · Claude Code |
-| **CineFrame** | Cinematic product mockups from any URL, with 6-axis camera and a live browser inside the frame | Next.js · Three.js |
-| **Presentation Maker** | Proposal and presentation generator | Vue 3 · Vite |
-
-**Attendance, surveillance and hardware**
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Argus One** | Unified attendance and surveillance for Windows: ZKTeco device discovery, sync and monitoring | Python · Windows |
-| **SAAMS** | API-based surveillance and attendance system | Python |
 | **Pi Attendance** | Raspberry Pi biometric attendance | Python |
 
-> 🔒 Most of these are private client or company repositories. Links go to the public ones.
+## 🌐 Websites
 
-## 🌐 Selected websites
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="https://allgreencarpetclean.com"><img src="assets/projects/sites/all-green-carpet-clean.jpg" alt="allgreencarpetclean.com" width="100%"></a><br><sub><a href="https://allgreencarpetclean.com">allgreencarpetclean.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://bhgeneralcontractor.com"><img src="assets/projects/sites/bh-general-contractor.jpg" alt="bhgeneralcontractor.com" width="100%"></a><br><sub><a href="https://bhgeneralcontractor.com">bhgeneralcontractor.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://orangecountycarpetcleaning.com"><img src="assets/projects/sites/orange-county-carpet.jpg" alt="orangecountycarpetcleaning.com" width="100%"></a><br><sub><a href="https://orangecountycarpetcleaning.com">orangecountycarpetcleaning.com</a></sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="https://manhattanlead.com"><img src="assets/projects/sites/manhattan-lead-site.jpg" alt="manhattanlead.com" width="100%"></a><br><sub><a href="https://manhattanlead.com">manhattanlead.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://dmvcommercialdoorrepair.com"><img src="assets/projects/sites/dmv-door-repair.jpg" alt="dmvcommercialdoorrepair.com" width="100%"></a><br><sub><a href="https://dmvcommercialdoorrepair.com">dmvcommercialdoorrepair.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://allureseo.com"><img src="assets/projects/sites/allure-seo.jpg" alt="allureseo.com" width="100%"></a><br><sub><a href="https://allureseo.com">allureseo.com</a></sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="https://allgreencarpetcleanbrooklyn.com"><img src="assets/projects/sites/allgreen-brooklyn.jpg" alt="allgreencarpetcleanbrooklyn.com" width="100%"></a><br><sub><a href="https://allgreencarpetcleanbrooklyn.com">allgreencarpetcleanbrooklyn.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://allgreencarpetcleanqueens.com"><img src="assets/projects/sites/allgreen-queens.jpg" alt="allgreencarpetcleanqueens.com" width="100%"></a><br><sub><a href="https://allgreencarpetcleanqueens.com">allgreencarpetcleanqueens.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://abra.com"><img src="assets/projects/sites/abra.jpg" alt="abra.com" width="100%"></a><br><sub><a href="https://abra.com">abra.com</a></sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="https://nycitysafe.com"><img src="assets/projects/sites/nycitysafe.jpg" alt="nycitysafe.com" width="100%"></a><br><sub><a href="https://nycitysafe.com">nycitysafe.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://accuratechimneys.com"><img src="assets/projects/sites/accurate-chimneys.jpg" alt="accuratechimneys.com" width="100%"></a><br><sub><a href="https://accuratechimneys.com">accuratechimneys.com</a></sub></td>
+    <td width="33%" valign="top"><a href="https://vertex-garage.com"><img src="assets/projects/sites/vertex-garage.jpg" alt="vertex-garage.com" width="100%"></a><br><sub><a href="https://vertex-garage.com">vertex-garage.com</a></sub></td>
+  </tr>
+</table>
 
-**Production:** [abra.com](https://abra.com) · [nycitysafe.com](https://nycitysafe.com) · [accuratechimneys.com](https://accuratechimneys.com) · [vertex-garage.com](https://vertex-garage.com)
-
-**AI-assisted launches:** [allgreencarpetclean.com](https://allgreencarpetclean.com) · [bhgeneralcontractor.com](https://bhgeneralcontractor.com) · [orangecountycarpetcleaning.com](https://orangecountycarpetcleaning.com)
-
-**Also built:** Manhattan Lead, Quest Mold & Asbestos (3 versions), DMV Commercial Door Repair, Hudson Waterfront, AirTight Insulation, Affordable SEO San Diego, Allure SEO, Luxury Nails Lounge, Quality 1st Auto Repair, All Green Carpet Clean (Brooklyn and Queens PPC pages)
+**Also built:** Quest Mold &amp; Asbestos (3 versions), Hudson Waterfront, AirTight Insulation, Luxury Nails Lounge, Quality 1st Auto Repair
 
 ---
 
