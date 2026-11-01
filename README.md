@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ehtesham Ali 👋</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="Ehtesham Ali, full stack developer: ERPs, CMS platforms, AI tools and websites" width="100%">
+</p>
 
 <p align="center">
   <strong>Full Stack Developer & Software Delivery Lead</strong><br>
