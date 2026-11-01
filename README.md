@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ehtesham Ali, full stack developer: ERPs, CMS platforms, AI tools and websites" width="100%">
+  <img src="assets/banner.svg" alt="Ehtesham Ali, full stack developer and product lead: ERPs, CMS platforms, AI tools and websites" width="100%">
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer & Software Delivery Lead</strong><br>
+  <strong>Full Stack Developer & Product Lead</strong><br>
   9+ years across web development, product engineering and digital design.<br>
   I build production platforms, AI automation, business systems, custom CMS solutions and websites that convert.
 </p>
@@ -20,7 +20,7 @@
 
 ## 🧭 What I do
 
-- **Lead delivery** of full stack products, internal platforms and client websites at [Allure Digital](https://alluredigital.net), from technical planning to production.
+- **Lead products end to end**: full stack products, internal platforms and client websites at [Allure Digital](https://alluredigital.net), from technical planning to production.
 - **Ship business software**: finance, CRM, ERP, HR, payroll, invoicing, property, dispatch and compliance systems.
 - **Build AI automation**: n8n workflows, Grok/xAI bots, LLM integrations and AI-assisted content and SEO tooling.
 - **Engineer CMS platforms**: custom WordPress themes and plugins, plus a MongoDB-backed headless CMS (AVAULT) that runs many of our client sites.
@@ -53,7 +53,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Grok%20%7C%20Claude-111827?style=flat-square)
 
-**DevOps, servers and delivery**<br>
+**DevOps, servers and deployment**<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Server management](https://img.shields.io/badge/Server%20management-1F2937?style=flat-square&logo=serverfault&logoColor=white)
