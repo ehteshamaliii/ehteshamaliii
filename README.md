@@ -305,10 +305,18 @@
 
 ## 📈 GitHub stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ehteshamaliii&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehteshamaliii&layout=compact&theme=radical" alt="Top languages" height="165">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ehteshamaliii&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehteshamaliii&theme=github_dark" alt="GitHub stats" height="180">
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehteshamaliii&theme=github_dark" alt="Top languages by repo" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehteshamaliii&theme=github_dark" alt="Top languages by commit" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ehteshamaliii&theme=github_dark&utcOffset=5" alt="Commits by hour" height="180">
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ehteshamaliii&color=e15000&style=flat-square&label=Profile+views" alt="Profile views"></p>
+
+<p align="center"><sub>Most of my work lives in private client and company repositories, so these public stats show only part of it.</sub></p>
 
 ---
 
